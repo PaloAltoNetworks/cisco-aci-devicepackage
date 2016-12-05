@@ -22,6 +22,19 @@ Examples:
 Manually remove vsys from interface  
 No known workarounds
 
+
+### Steps to reproduce ###
+
+<Clear and consise steps to reproduce the issue>
+
+Example:
+
+1. On Firewall, navigate to Network tab, then Interfaces
+2. Create an Aggregate Ethernet Interface in vsys1.  Other settings can be anything.
+3. On APIC, create a new tenant
+4. In the new tenant, create an L4-L7 device with a cluster parameter for this aggregate ethernet interface
+
+
 ### Debug log output ###
 
 ```
