@@ -1,3 +1,7 @@
+# ARCHIVED
+
+The Cisco ACI device package is TAC supported, so issue tracking has moved to TAC.  This tracker is now archived.
+
 # Palo Alto Networks Device Package Issue Tracking
 
 This repository is used for public issue tracking for the Palo Alto Networks Cisco ACI Device Package.  There is no device-package code contained in this repository, only issue tracking.
